@@ -1,0 +1,15 @@
+c:\Users\rpandey\source\repos\ChatApp\ChatTests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\rpandey\source\repos\ChatApp\ChatTests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+c:\Users\rpandey\source\repos\ChatApp\ChatTests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+c:\Users\rpandey\source\repos\ChatApp\ChatTests\bin\Debug\netcoreapp1.1\ChatTests.deps.json
+c:\Users\rpandey\source\repos\ChatApp\ChatTests\bin\Debug\netcoreapp1.1\ChatTests.runtimeconfig.json
+c:\Users\rpandey\source\repos\ChatApp\ChatTests\bin\Debug\netcoreapp1.1\ChatTests.runtimeconfig.dev.json
+c:\Users\rpandey\source\repos\ChatApp\ChatTests\bin\Debug\netcoreapp1.1\ChatTests.dll
+c:\Users\rpandey\source\repos\ChatApp\ChatTests\bin\Debug\netcoreapp1.1\ChatTests.pdb
+c:\Users\rpandey\source\repos\ChatApp\ChatTests\bin\Debug\netcoreapp1.1\ChatApp.dll
+c:\Users\rpandey\source\repos\ChatApp\ChatTests\bin\Debug\netcoreapp1.1\ChatApp.pdb
+c:\Users\rpandey\source\repos\ChatApp\ChatTests\obj\Debug\netcoreapp1.1\ChatTests.csprojResolveAssemblyReference.cache
+c:\Users\rpandey\source\repos\ChatApp\ChatTests\obj\Debug\netcoreapp1.1\ChatTests.csproj.CoreCompileInputs.cache
+c:\Users\rpandey\source\repos\ChatApp\ChatTests\obj\Debug\netcoreapp1.1\ChatTests.AssemblyInfo.cs
+c:\Users\rpandey\source\repos\ChatApp\ChatTests\obj\Debug\netcoreapp1.1\ChatTests.dll
+c:\Users\rpandey\source\repos\ChatApp\ChatTests\obj\Debug\netcoreapp1.1\ChatTests.pdb
